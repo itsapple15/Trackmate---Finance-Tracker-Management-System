@@ -1,0 +1,21 @@
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\bin\Debug\Trackmate - Finance Tracker Management System.exe.config
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\bin\Debug\Trackmate - Finance Tracker Management System.exe
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\bin\Debug\Trackmate - Finance Tracker Management System.pdb
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.csproj.AssemblyReference.cache
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Form3_ForgetPassword.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Properties.Resources.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.csproj.GenerateResource.cache
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.csproj.CoreCompileInputs.cache
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.exe
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate - Finance Tracker Management System.pdb
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Expense.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.ExpenseInfo.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Login.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Registration.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Form4_Dashboard.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Income.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.IncomeInfo.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Reminders.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.Goals.resources
+C:\Users\QUIENIE MAE\source\repos\Trackmate - Finance Tracker Management System\Trackmate - Finance Tracker Management System\obj\Debug\Trackmate___Finance_Tracker_Management_System.GoalTracking.resources
